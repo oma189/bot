@@ -1,0 +1,29 @@
+
+img{
+    
+    display: block;
+    margin: auto auto;
+  
+    width: 200px;
+    height: 200px;
+    
+    text-align: center;
+}
+body{
+    background-color: #83D0E4;
+}
+
+
+form{
+    background-color: #F0FCFF;
+    padding: 30px 30px;
+    width: 70%;
+    margin: auto auto;
+}
+.d-grid{
+    margin: auto auto;
+    flex-wrap: ;
+}
+.form-required{
+    color: rgb(222, 57, 57);
+}
